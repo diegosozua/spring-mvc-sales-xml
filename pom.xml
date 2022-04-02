@@ -12,7 +12,7 @@
         <jdk.version>1.8</jdk.version>
         <servlet-api.version>4.0.1</servlet-api.version>
         <spring.version>5.3.18</spring.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <tomcat7.version>2.2</tomcat7.version>
         <jetty.version>9.4.19.v20190610</jetty.version>
         <maven-compiler.version>3.8.1</maven-compiler.version>
